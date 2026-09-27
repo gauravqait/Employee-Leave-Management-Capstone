@@ -1,11 +1,21 @@
 # Project Artifacts
 
-This repository contains artifacts for the AI Driven SDLC Capstone Project.
+AI Driven SDLC Capstone Project
 
-Application:
+Reference Application:
 LeaveEase Employee Leave Management System
 
-Enhancements:
+Approved Enhancements:
+
 1. Smart Leave Dashboard
 2. Email Notification System
 3. Manager Review Comments
+
+Project Artifacts:
+
+- Analysis and Gap Assessment
+- Requirements and User Stories
+- Implementation Plan
+- Architecture and Design
+- Development, Testing and Deployment
+- Project Closure and Documentation
